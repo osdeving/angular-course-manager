@@ -1,0 +1,8 @@
+/*@import ('~/node_modules/bootstrap/dist/css/bootstrap-min.css');*/
+.star-container {
+    width: 100px
+}
+
+.crop {
+    overflow: hidden;
+}

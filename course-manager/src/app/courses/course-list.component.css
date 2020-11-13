@@ -1,0 +1,7 @@
+/*@import ('~/node_modules/bootstrap/dist/css/bootstrap-min.css');*/
+
+h2::selection {
+    color: red;
+    background-color: black;
+
+}
